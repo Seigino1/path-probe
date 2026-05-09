@@ -1,7 +1,5 @@
 # Path Probe / 用户路径探针
 
-![Path Probe Icon](assets/icon.png)
-
 Turn messy social/community research into product-ready search pattern analysis.
 
 把脏乱的社区研究材料整理成可追溯、可执行的用户路径分析结论。
